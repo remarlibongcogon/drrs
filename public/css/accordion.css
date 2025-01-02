@@ -1,0 +1,9 @@
+.accordion {
+    --bs-accordion-active-bg: #ffffff;
+    --bs-accordion-active-color: #000000;
+    --bs-accordion-btn-focus-box-shadow: none;
+}
+ 
+.accordion-collapse {
+  transition: all 0.3s;
+}
